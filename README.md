@@ -1,0 +1,2 @@
+# Abridge
+Abridge any article.
